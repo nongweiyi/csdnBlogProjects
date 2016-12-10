@@ -1,6 +1,5 @@
 $(function(){
 	$("#tab").tabs();
-
 	
 	 var items=document.getElementsByTagName("a");
 	 for (var i = 0; i < items.length; i++) {
